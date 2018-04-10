@@ -5,6 +5,9 @@ import javax.swing.*;
 
 import java.util.*;
 
+/*
+@author:Vishal Singh
+*/
 @SuppressWarnings("serial")
 class MyClock extends JFrame implements Runnable
 {
